@@ -1,8 +1,8 @@
-# Domácí úkol: Zvířátka
+# Cvičný projekt: Zvířátka
 
 Za úkol máš vyrobit aplikaci, která zobrazuje seznam zvířátek v ZOO. Když klikneš na zvířátko v seznamu, zobrazí se vpravo jeho detailní popis.
 
-Tentokrát není zadání postup krok za krokem, na poustu věcí si musíš přijít sama. Až bude aplikace hotová, měla by vypadat nějak takto:
+Tentokrát není zadání popsané krok za krokem, na poustu věcí si musíš přijít sama. Až bude aplikace hotová, měla by vypadat nějak takto:
 
 ![ukázka výsledku](ukazka-vysledku.jpg)
 
